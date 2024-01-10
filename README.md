@@ -1,6 +1,9 @@
-### Hi there 👋
+### 👋
+
+![gh](https://github.com/pear25/pear25/assets/82131191/ef7173b9-a9d1-4d62-97bb-34fb9d3c7870)
 
 ![Pear's GitHub stats](https://github-readme-stats.vercel.app/api?username=pear25&show_icons=true&theme=transparent)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pear25&hide=jupyternotebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **pear25/pear25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
