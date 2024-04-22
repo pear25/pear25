@@ -5,6 +5,8 @@
 ![Pear's GitHub stats](https://github-readme-stats.vercel.app/api?username=pear25&show_icons=true&theme=transparent)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pear25&hide=jupyternotebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pear25&" alt="pear25" /></p>
 <!--
 **pear25/pear25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
