@@ -1,4 +1,25 @@
 ### 
+### 👋
+
+I'm **Pierson**, 🇮🇩 fullstack developer based in 🇭🇰.
+
+---
+
+🔧 
+
+- 🧠 **Frontend:** React, TypeScript, Tailwind, Next.js, Vue3  
+- ⚙️ **Backend:** Node.js & Nest.js, Python (FastAPI, Django) & Go  
+- ☁️ **Others:** PostgreSQL, Redis, REST & GraphQL APIs
+
+---
+
+:eyes: 
+
+- Smart contract dev
+- ML  
+- Developer tooling  
+
+
 ![gh](https://github.com/pear25/pear25/assets/82131191/ef7173b9-a9d1-4d62-97bb-34fb9d3c7870)
 
 ![Pear's GitHub stats](https://github-readme-stats.vercel.app/api?username=pear25&show_icons=true&theme=transparent)
