@@ -13,7 +13,7 @@ I'm **Pierson**, 🇮🇩 fullstack developer based in 🇭🇰.
 
 ---
 
-:eyes: 
+🎯
 
 - Smart contract dev
 - ML  
